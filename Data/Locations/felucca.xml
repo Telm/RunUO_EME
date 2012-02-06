@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<places>
+	<parent name="Trammel">
+		<parent name="Lokacje">
+				<child name="Aman Gardens" x="353" y="3396" z="-75" />
+				<child name="Shire" x="1901" y="1171" z="-80" />
+				<child name="Tharbad" x="2574" y="1797" z="-80" />
+				<child name="Isengard" x="2913" y="2346" z="-80" />
+				<child name="Helmowy Jar" x="3042" y="2631" z="-51" />
+				<child name="Esgaroth" x="4245" y="748" z="-75" />
+				<child name="Moria Gate" x="3075" y="1662" z="-74" />
+				</parent>
+		<parent name="Miasta">
+			<child name="Bree" x="2223" y="1106" z="-80" />
+			<child name="Esgaroth" x="4245" y="748" z="-75" />
+			<child name="Dale" x="4085" y="523" z="-70" />
+			<child name="Dunharrow" x="3498" y="2793" z="-69" />
+			<child name="Edoras" x="3217" y="2633" z="-40" />
+			<child name="Ered Luin" x="770" y="972" z="-50" />
+			<child name="Helmowy Jar" x="3013" y="2663" z="-50" />
+			<child name="Iron Hills" x="4828" y="821" z="-50" />
+			<child name="Lorien" x="6023" y="2373" z="-52" />
+			<child name="Minas Tirith" x="4132" y="3075" z="-96" />
+			<child name="Mithlond" x="1212" y="1247" z="-80" />
+			<child name="Osada Gornicza" x="0" y="0" z="0" />
+			<child name="Rivendell" x="3075" y="1016" z="-60" />
+			<child name="Shrel Kain" x="5480" y="1632" z="-80" />
+			<child name="Umbar" x="2785" y="3946" z="-38" />
+		    </parent>
+	</parent>
+</places>
